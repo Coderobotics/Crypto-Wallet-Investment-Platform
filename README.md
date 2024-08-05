@@ -3,7 +3,7 @@ Cryptilo is a robust PHP-based platform designed for online crypto wallets, HYIP
 
 Investment Crypto PHP Script also includes a referral program where admins can set referral earning percentages and decide whether earnings apply to the first deposit or all deposits. Users have access to dedicated settings to manage their account information and preferences, including choosing their trading currency from USD, EUR, or YEN. Admins have full control over the platform, from setting investment plan prices and rates to adjusting crypto prices for arbitrage and customizing platform settings in the ‘setup’ tab. The platform provides up-to-date crypto prices via a free-for-life API, and a growth monitor that scans top-performing cryptocurrencies to optimize trading strategies. The user interface is intuitive and mobile-responsive, with future updates set to introduce more template skins for enhanced customization. Cryptilo receives monthly updates to keep the platform current with the latest advancements, and owners of the script are entitled to six months of free updates and support. Buy Cryptilo today to elevate your cryptocurrency management with a platform that combines real-time data, robust features, and user-centric design.
 
-Crypto Wallet or Investment Platform has the following key features:
+<b>Crypto Wallet or Investment Platform has the following key features:</b>
 
 Users can make investments on the platform and their ROI is calculated in real-time and updated every second. As soon as the investment ends (in one month), users can withdraw to their Bitcoin wallet. Users can only create investment from their Bitcoin wallet.
 Users can own multiple assets; BTC, ETH, USDT & BNB. They can make exchanges on the platform using the platform’s exchange feature.
@@ -17,5 +17,5 @@ Admin has control of the platform. Set investment plan prices, rates. Adjust cry
 Up to date crypto prices from a free for life API. Growth monitor scans top performing cryptocurrency and uses to trade your users funds.
 User Interface is intuitive and platform is mobile responsive. Future updates will get more template skins you can choose from.
 
-More details and Download link:
+<b>Download Crypto Investment PHP Script here:</b></br>
 https://www.phpscriptsonline.com/product/crypto-wallet-investment-php-script/
