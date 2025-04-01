@@ -18,4 +18,4 @@ Up to date crypto prices from a free for life API. Growth monitor scans top perf
 User Interface is intuitive and platform is mobile responsive. Future updates will get more template skins you can choose from.
 
 <b>Download Crypto Investment PHP Script here:</b></br>
-https://www.phpscriptsonline.com/product/crypto-wallet-investment-php-script/
+https://www.coderobotics.com/product/crypto-investment-software
