@@ -18,4 +18,13 @@ Up to date crypto prices from a free for life API. Growth monitor scans top perf
 User Interface is intuitive and platform is mobile responsive. Future updates will get more template skins you can choose from.
 
 <b>Download Crypto Investment PHP Script here:</b></br>
-https://www.coderobotics.com/product/crypto-investment-software
+https://www.phpscriptsonline.com/product/crypto-investment-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
